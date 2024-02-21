@@ -1,0 +1,119 @@
+
+.clearfix {
+  clear: both;
+}
+h1 {
+	color: #3e13a1;
+	font-family: 'Roboto';
+	text-align: center;
+	font-size: 48px;
+	font-weight: 900;
+}
+h2 {
+	color: purple;
+	font-size: 30px;
+}
+h3 {
+  color: black;
+	font-family: 'Roboto';
+	text-align: center;
+	font-size: 34px;
+	font-weight: 500;
+  margin-top: -50px;
+}
+body {
+	margin-top: 170px;
+	font-size: 35px;
+	text-align: justify;
+  font-family: 'Roboto';
+  font-weight: 500;
+  background-color: rgb(228, 228, 228)
+
+}
+#intro {
+  text-align: center;
+  font-size: larger;
+}
+#linkLib {
+  border-radius: 20px;
+  margin-top: 50px;
+}
+#divLib {
+  padding-bottom: 300px;
+}
+
+.navbar {
+  
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 25px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #3e13a1;
+  color: #fff;
+  padding: 20px 0;
+}
+.nav-link {
+  display: inline-block;
+  padding: 10px 15px;
+  text-decoration: none;
+  color: #fff;
+}
+.nav-link:hover {
+  background-color: #fff;
+}
+
+.table{
+  display: flex;
+	justify-content: center;
+	align-items: center;
+  text-align: center;
+  font-size: larger;
+}
+.lib {
+  width: 600px;
+  height: 500px;
+  border-radius: 20px;
+}
+.tabellaHome {
+  vertical-align: top;
+  text-align: center;
+  margin-top: -25px;
+}
+#img1 {
+  position: absolute;
+  left: 43%;
+  right: 43%;
+}
+#img2 {
+  position: absolute;
+  left: 37%;
+  right:85%;
+}
+
+#logo {
+  /* position: absolute;
+  left:  5%;
+  right: 10% */
+  width: 65px;
+  height: 65px;
+  margin-left: 50px;
+  float: left;
+  border-radius:100%;
+}
+
+
+.link {
+  position: relative;
+  left:21%;
+  width: 1000px;
+ z-index: 1;
+  text-align: center;
+ 
+}
+#img3 {
+  height:325px;
+  width:325px;
+}
